@@ -37,11 +37,11 @@ features                                  :
 
   - title                                 : Google Trends
     description                           : Get and class the daily Google trends podium
-    fontawesome_icon_name                 : poll-h
+    fontawesome_icon_name                 : google
     
   - title                                 : Twitter Trends
     description                           : Get and class the daily Twitter trends podium
-    fontawesome_icon_name                 : poll
+    fontawesome_icon_name                 : twitter
 
   - title                                 : Hall of Fame
     description                           : Compare your score to your friends and become a top player
