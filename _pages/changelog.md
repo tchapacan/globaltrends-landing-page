@@ -11,7 +11,7 @@ include_in_header: true
 ### `Latest`
 ### `Initial Release`
 # **Version 1.0.7**
-- 😊 Initial release on google playstore, HelloWorld
+- 😊 Initial release on google playstore coming soon, HelloWorld
 
 <br>
 
