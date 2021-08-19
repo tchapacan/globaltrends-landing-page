@@ -36,7 +36,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Google Trends
-      description                         : Get and class the daily Google trends podium
+    description                           : Get and class the daily Google trends podium
     fontawesome_icon_name                 : facebook
     
   - title                                 : Twitter Trends
