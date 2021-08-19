@@ -41,7 +41,7 @@ features                                  :
     
   - title                                 : Twitter Trends
     description                           : Get and class the daily Twitter trends podium
-    fontawesome_icon_name                 : twitter-square
+    fontawesome_icon_name                 : poll
 
   - title                                 : Hall of Fame
     description                           : Compare your score to your friends and become a top player
