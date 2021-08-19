@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/web_hi_res_512.png                 # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Global Trends - Master Guessr             # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Guess the different trends' podium of each country everyday ! 😱☄️
+app_description                           : Guess the different trends' podium of each country everyday ! 😱📰
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -35,17 +35,17 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : CNEOS News
-    description                           : Get the last news from the Center for Near Earth Object Studies.
-    fontawesome_icon_name                 : rss
+  - title                                 : Google Trends
+      description                         : Get and class the daily Google trends podium
+    fontawesome_icon_name                 : facebook
     
-  - title                                 : NEO Tracker
-    description                           : Get today, next week and all Sentry near earth object from NASA.
-    fontawesome_icon_name                 : meteor
+  - title                                 : Twitter Trends
+    description                           : Get and class the daily Twitter trends podium
+    fontawesome_icon_name                 : twitter
 
-  - title                                 : ISS Live Position
-    description                           : Get the International Space Station live position displayed on a map.
-    fontawesome_icon_name                 : satellite
+  - title                                 : Hall of Fame
+    description                           : Compare your score to your friends and become a top player
+    fontawesome_icon_name                 : trophy
 
 
 
