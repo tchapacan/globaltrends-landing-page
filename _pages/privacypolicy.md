@@ -85,6 +85,8 @@ These Services do not address anyone under the age of 13. We do not knowingly co
 ## Delete of your data
 Do not hesitate to send us an email to the contact email address if you would like to ask me to fully delete all informations stored on our side as mentionned earlier in this privacy policy your email address.
 
+<br>
+
 ## Changes to This Privacy Policy
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
